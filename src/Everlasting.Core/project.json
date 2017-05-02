@@ -1,0 +1,13 @@
+﻿{
+  "version": "1.0.0-*",
+
+  "dependencies": {
+    "CommandLineParser": "1.9.71"
+  },
+
+  "frameworks": {
+    "net461": {
+      
+    }
+  }
+}
